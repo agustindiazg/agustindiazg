@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi! 👋 I'm Agus
 
-<!--
-**agustindiazg/agustindiazg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a full stack developer, who loves Javascript.
 
-Here are some ideas to get you started:
+I’m currently working on [Virtual Venue](https://www.eventcube.io/gb/virtual-events/) with [eventcube](https://www.eventcube.io/gb/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experince working with:
+* VueJs
+* React
+* React Native
+* Angular 9+
+* NodeJS - Express & Fastify
+* PHP - Laravel & Yii2 

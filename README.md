@@ -13,7 +13,7 @@ During the past 4 years i have worked on multiples tecnologies/frameworks such a
 * Angular 9+
 * React Native
 
-👨🏻‍🎨 Apart from a big passion on development i have always been insterested into desing what has lead me into the **UI/UX** world.
+👨🏻‍🎨 Apart from a big passion on development i have always been insterested into Design what has lead me into the **UI/UX** world.
 This love for design has made me used some tools such as: **Figma**, **Adobe XD**, **Invision**.
 
-🎾 Apart from coding i love playing tennis and paddle and whenever i have time i love doing some street Photography 🎞.
+🎾 Apart from coding i love playing tennis, paddle and Photography 🎞.
